@@ -1,0 +1,63 @@
+.App {
+  background-color: white;
+}
+
+.container {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.container-row {
+  display: flex;
+  align-content: center;
+  flex: 1;
+  width: calc(100% - 2rem);
+  padding: 0.5rem;
+}
+
+.App-header {
+  background-color: white;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  font-family: 'Poppins-bold';
+  color: black;
+  width: 100%;
+}
+
+.App-switch {
+  background-color: white;
+  display: flex;
+  margin: 0;
+  font-size: 0.6rem;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  width: 100%;
+}
+
+.App-body {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.App-footer {
+  background-color: white;
+  min-height: 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  font-family: 'Poppins-bold';
+  color: black;
+}

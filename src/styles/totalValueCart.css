@@ -1,0 +1,21 @@
+.totalValueCart-title {
+  display: flex;
+  font-size: 1rem;
+  font-family: 'Poppins-Bold';
+  flex: 1;
+}
+
+.totalValueCart-content {
+  display: flex;
+  font-size: 1rem;
+}
+
+.totalValueCart-chip-text {
+  color: #338912;
+  background-color: #c7ffa6;
+  padding: 0.5rem;
+  font-size: 0.9rem;
+  border-radius: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}

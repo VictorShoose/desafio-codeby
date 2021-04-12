@@ -1,0 +1,31 @@
+.productCart-content {
+  background-color: white;
+  margin-left: 1rem;
+  width: 100%;
+}
+
+.productCart-image {
+  background-color: white;
+  border: 1px solid gainsboro;
+  width: 9rem;
+  height: 8rem;
+}
+
+.productCart-name {
+  width: 100%;
+  color: black;
+  font-size: 0.8rem;
+  font-family: 'Poppins-Bold';
+}
+
+.productCart-price {
+  color: gray;
+  font-size: 0.8rem;
+  display: block;
+}
+
+.productCart-sellingPrice {
+  color: black;
+  font-size: 0.8rem;
+  display: block;
+}
